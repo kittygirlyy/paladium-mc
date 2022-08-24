@@ -1,0 +1,11 @@
+"use strict";
+require('./GeneralEvent');
+require('./AutoLaunch');
+require('./WindowEvent');
+require('./RendererLogEvent');
+require('./UpdateEvent');
+require('./LaunchMinecraftEvent');
+require('./GameOptionsEvent');
+require('./NotificationEvent');
+require('./GhostAPIEvent');
+require('./LoadURLEvent');

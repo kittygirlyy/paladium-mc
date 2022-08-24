@@ -1,0 +1,23 @@
+{
+  "name": "paladium-group",
+  "version": "1.0.10",
+  "description": "Launcher of paladium-pvp.fr",
+  "main": "build/main/main.js",
+  "author": "Dysey",
+  "dependencies": {
+    "@aws-crypto/crc32": "^2.0.1",
+    "@tryghost/content-api": "^1.8.0",
+    "auto-launch": "^5.0.5",
+    "axios": "^0.26.1",
+    "download": "^8.0.0",
+    "electron-debug": "^3.2.0",
+    "electron-log": "^4.4.6",
+    "electron-store": "^8.0.1",
+    "electron-updater": "^5.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "minecraft-launcher-core": "^3.16.12",
+    "vue": "^3.2.31",
+    "vue-router": "^4.0.14",
+    "vuex": "^4.0.2"
+  }
+}
