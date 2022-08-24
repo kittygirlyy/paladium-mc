@@ -26,4 +26,30 @@ I'm extracting the **app.asar** (Location: C:\Users\pwnme\AppData\Local\Programs
 - `npm install -g asar`
 - `npx asar extract app.asar nekodium`
 
-every decompiled files is available in my repo.
+How is electron app bundled: [Documentation](https://www.electronjs.org/fr/docs/latest/development/build-instructions-windows)
+
+every decompiled files is available in my repo: [LINK](https://github.com/n3k0girl/paladium-mc/tree/main/decompiled-launcher)
+
+### Palanarchy ? 
+<img src="https://raw.githubusercontent.com/n3k0girl/paladium-mc/main/decompiled-launcher/renderer/palanarchy/logo.webp">
+
+I noticed somes weird stuffs about palanarchy in the decompiled electron app:
+
+https://download.paladium-pvp.fr/games/palanarchy.json
+
+```json
+
+{
+    "name" : "Palanarchy",
+    "available" : false,
+    "maintenance" : false,
+    "compatibility": [],
+    "distributions" : []
+}
+
+```
+
+Maybe a new mode ? :p
+
+<img src="https://cdn.discordapp.com/attachments/944040587168976897/1012048114359742474/unknown.png">
+
